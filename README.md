@@ -1,4 +1,4 @@
-Computational-Vision-Matlab
+Computational-Vision in Matlab
 ===========================
 
 Some scripts written in Matlab for processing visual information. Matlab is an easy way to start processing visual data. Take a look at my code and play with the samples I posted.
